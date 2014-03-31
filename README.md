@@ -20,33 +20,33 @@ TODO: picture
 
 ### Price Sync
 
-(sphere-price-sync)[https://github.com/sphereio/sphere-price-sync]
+[sphere-price-sync](https://github.com/sphereio/sphere-price-sync)
 
 ### Stock Sync
 
-(sphere-stock-sync)[https://github.com/hajoeichler/sphere-stock-sync]
+[sphere-stock-sync](https://github.com/hajoeichler/sphere-stock-sync)
 
 ### Order Distribution
 
-(sphere-order-distribution)[https://github.com/hajoeichler/sphere-order-distribution]
+[sphere-order-distribution](https://github.com/hajoeichler/sphere-order-distribution)
 
 ### State sync
 
-(sphere-message-processing)[https://github.com/sphereio/sphere-message-processing]
+[sphere-message-processing](https://github.com/sphereio/sphere-message-processing)
 
 ##### Order states
 
-(sphere-order-state-sync)[https://github.com/sphereio/sphere-order-state-sync/blob/master/bin/sphere-order-state-sync.js]
+[sphere-order-state-sync](https://github.com/sphereio/sphere-order-state-sync/blob/master/bin/sphere-order-state-sync.js)
 
 ##### Deliveries and Returns
 
-(sphere-delivery-and-return-sync.js)[https://github.com/sphereio/sphere-order-state-sync/blob/master/bin/sphere-delivery-and-return-sync.js]
+[sphere-delivery-and-return-sync.js](https://github.com/sphereio/sphere-order-state-sync/blob/master/bin/sphere-delivery-and-return-sync.js)
 
 ### Retailer management
 
 ##### Line item state and stock management
 
-(sphere-order-processing.js)[https://github.com/sphereio/sphere-order-state-sync/blob/master/bin/sphere-order-processing.js]
+[sphere-order-processing.js](https://github.com/sphereio/sphere-order-state-sync/blob/master/bin/sphere-order-processing.js)
 
 ##### Email notification
 
