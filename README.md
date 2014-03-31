@@ -2,7 +2,7 @@ SPHERE.IO marketplace
 =====================
 
 This repository contains information on how to build and run a marketplace on top of SPHERE.IO
-A marketplace is the combination of retailers in to one central place - the marketplace.
+A marketplace is the combination of data sets like products, prices and stocks of different retailer in  one central place - the marketplace.
 
 In the SPHERE.IO space this means to connect projects - many retailer projects into one marketplace project, which we call master project.
 
@@ -16,7 +16,7 @@ In general, the SPHERE.IO projects used to build a marketplace do not differ fro
 
 ### Channels
 
-Using channels allows you to define where information is coming from or should be communicated to. The most important role of a channel is `SupplyChannel`, which can be used on price and stock level to identifiy different sources. In terms of a marketplace one supply channel indicates with its `key` property the SPHERE.IO project key of one retailer the information is originating from.
+Using channels allows you to define where information is coming from or should be communicated to. The most important role of a channel is `SupplyChannel`, which can be used on price and stock level to identifiy different sources. In terms of a marketplace, a supply channel indicates with its `key` property the SPHERE.IO project key of one retailer the information is originating from.
 
 Further, channels of role `OrderImport` and `OrderExport` allow you to define where an order made at the marketplace has to be distributed to.
 SPHERE.IO allows you here different possible scenarios:
